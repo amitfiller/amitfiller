@@ -17,19 +17,28 @@ My experience ranges from complex SQL queries and machine learning models to dep
 
 ### 💻 Tech Stack
 
-**Languages & Core** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages & Notebooks** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Data, Databases & Machine Learning** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Data Processing & Databases** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Machine Learning & Statistics** ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-179C52?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-FFDB1A?style=for-the-badge&logo=python&logoColor=black)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF5A5F?style=for-the-badge)
 
-**AI & Analytics** ![AI Assistants & LLMs](https://img.shields.io/badge/AI_Agents_%26_LLMs-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+**Visualization** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**AI, APIs & Analytics** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
@@ -38,6 +47,7 @@ My experience ranges from complex SQL queries and machine learning models to dep
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-161615?style=for-the-badge&logo=make&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
@@ -50,8 +60,8 @@ An AI-powered pipeline designed to analyze and extract insights from Amazon prod
 
 #### 💹 Capital Markets AI Analyzer
 An end-to-end analytics solution built over a financial dataset that answers natural language questions with clear, data-driven insights.
-* **Tech:** Python, SQL, AI APIs, Power BI.
-* **Focus:** Data cleaning, ETL, forecasting, clustering, and AI API integration.
+* **Tech:** Python, SQL, OpenAI / Gemini SDKs, Time Series (Statsmodels), Power BI.
+* **Focus:** Data cleaning, ETL, forecasting (SARIMAX), clustering, and AI API integration.
 
 #### 🏥 Medical Triage NLP Project
 A data science seminar project focusing on clinical note extraction from EHR systems for COVID-19 patient triage.
@@ -65,6 +75,22 @@ A data science seminar project focusing on clinical note extraction from EHR sys
 * 🧠 LLM-integrated workflows and automated AI agents.
 * 📈 Predictive models that solve real-world problems.
 * ⚡ Efficient, automated data extractions (Web Scraping & APIs).
+
+---
+
+### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitfiller&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" height="150" alt="Amit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitfiller&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="Amit's Top Languages" />
+</div>
+
+---
+
+### 🌱 Currently Focused On
+* 🧠 Deepening my expertise in **Machine Learning**, **System Architecture**, and **AI-integrated workflows** (RAG, Agents, LLMs).
+* 🏗️ Building end-to-end data products that turn complex data into clear, actionable insights.
+* 📈 Exploring the intersection of **Capital Markets** and automated AI forecasting.
+* 🎯 Growing toward a full-time **Data Science / AI Analytics** role.
 
 ---
 
